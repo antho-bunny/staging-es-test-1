@@ -28,7 +28,7 @@ jobs:
         run: deno task build
 
       - name: Publish the script to Bunny
-        uses: 'BunnyWay/actions/deploy-script@main'
+        uses: 'BunnyWay/actions/deploy-script@debug'
         with:
           script_id: 222
           base: "https://testfluffle.net/api/"
