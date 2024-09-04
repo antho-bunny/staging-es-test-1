@@ -27,4 +27,5 @@ jobs:
         uses: 'BunnyWay/actions/deploy-script@feat-add-oidc'
         with:
           script_id: 222
+          base: "https://testfluffle.net/api/"
           file: "dist/index.ts"
