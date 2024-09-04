@@ -1,5 +1,11 @@
 # es-empty-script
 
+## 0.7.11
+
+### Patch Changes
+
+- ea97a7f: bump
+
 ## 0.7.10
 
 ### Patch Changes
