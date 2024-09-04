@@ -26,6 +26,6 @@ jobs:
       - name: Publish the script to Bunny
         uses: 'BunnyWay/actions/deploy-script@main'
         with:
-          script_id: ${{ secrets.SCRIPT_ID }}
+          script_id: 222
           deploy_key: ${{ secrets.DEPLOY_KEY }}
           file: "dist/index.ts"
