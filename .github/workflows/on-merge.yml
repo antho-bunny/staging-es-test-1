@@ -31,5 +31,5 @@ jobs:
         uses: 'BunnyWay/actions/deploy-script@debug'
         with:
           script_id: 222
-          base: "https://testfluffle.net/api/"
+          base: "https://testfluffle.net/api"
           file: "dist/index.ts"
