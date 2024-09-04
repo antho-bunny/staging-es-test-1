@@ -1,5 +1,11 @@
 # es-empty-script
 
+## 0.7.6
+
+### Patch Changes
+
+- 62242ee: Bump
+
 ## 0.7.5
 
 ### Patch Changes
