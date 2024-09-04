@@ -24,8 +24,7 @@ jobs:
         run: deno task build
 
       - name: Publish the script to Bunny
-        uses: 'BunnyWay/actions/deploy-script@main'
+        uses: 'BunnyWay/actions/deploy-script@feat-add-oidc'
         with:
           script_id: 222
-          deploy_key: ${{ secrets.DEPLOY_KEY }}
           file: "dist/index.ts"
