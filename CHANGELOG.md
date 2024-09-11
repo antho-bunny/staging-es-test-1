@@ -1,5 +1,11 @@
 # es-empty-script
 
+## 0.7.13
+
+### Patch Changes
+
+- 5be70e4: A
+
 ## 0.7.12
 
 ### Patch Changes
